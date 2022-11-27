@@ -1,0 +1,29 @@
+.foot {
+  margin-top: 2%;
+}
+
+.card-img-top {
+  width: 50%;
+  height: 15vw;
+  object-fit: cover;
+}
+
+.btn-primary :hover {
+  background-color: #6f4e37;
+}
+
+.alert {
+  position: relative;
+  padding: 1rem 1rem;
+  margin-bottom: 1rem;
+  border: 1px solid transparent;
+  border-radius: 0.25rem;
+}
+
+.order {
+  border-color: #d3d6d8;
+}
+
+.inc {
+  border-color: #d3d6d8;
+}
